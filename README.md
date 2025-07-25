@@ -8,7 +8,7 @@ Welcome to **Piyush Travels** — a modern, responsive, and visually rich travel
 
 ## 🚀 Live Preview
 
-🔗 [View Website](https://piyush2707.github.io/piyush-travels-ui/)  
+🔗 [View Website](https://piyush2707.github.io/Piyush-Travel-Ui/#destinations)  
 🔗 Designed & Built by [@withpiyushhz](https://www.instagram.com/withpiyushhz)
 
 ---
