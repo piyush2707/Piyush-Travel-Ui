@@ -69,6 +69,7 @@ a {
 }
 
 .hero-content h2 {
+  colour:white;
   font-size: 3rem;
   margin-bottom: 10px;
 }
